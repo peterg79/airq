@@ -1,0 +1,14 @@
+wifi_mode = 1
+wifi_ssid = "tensatahi-mesh"
+wifi_password = "rohogogep"
+mqtt_ip = "172.27.201.3"
+mqtt_port = 1883
+mqtt_user = "nodemcu"
+mqtt_password = "xGXQELemA7iowmE9hFAjsqw8qCrysJXs"
+mqtt_secure = false
+mqtt_topic = "nodemcu/sensor1"
+dht22_pin = 5
+u8g2_sda = 2
+u8g2_scl = 1
+u8g2_font = u8g2.font_helvB18_tf
+u8g2_line_height = 21
